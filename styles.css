@@ -505,16 +505,16 @@ header .toggle_btn {
     width: 50%;
     left: 50%;
     height: 100%;
-    background-image: url(./images/problem1.jpg);
+    background-image: url(images/problem1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.example_img2 {
+.example_img2 { 
     width: 50%;
     left: 50%;
     height: 100%;
-    background-image: url(./images/ps2.jpg);
+    background-image: url(images/ps2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -524,7 +524,7 @@ header .toggle_btn {
     width: 50%;
     left: 50%;
     height: 100%;
-    background-image: url(./images/problem4.jpg);
+    background-image: url(images/problem4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -533,7 +533,7 @@ header .toggle_btn {
     width: 50%;
     left: 50%;
     height: 100%;
-    background-image: url(./images/problem2.jpg);
+    background-image: url(images/problem2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
